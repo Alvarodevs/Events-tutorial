@@ -1,6 +1,6 @@
 window.onload = function myLoadFunction() {
 	alert("The website just finished loading!");
+	//some code here
 };
-window.clickIt = function clickIt() {
-	alert("wuju");
-};
+
+//the listener function here

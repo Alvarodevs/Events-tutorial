@@ -1,1 +1,3 @@
-//Declare your function here
+window.killoQue = function killoQue() {
+	alert("KILLO QUE!!??");
+};
